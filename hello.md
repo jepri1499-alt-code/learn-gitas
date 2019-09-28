@@ -1,2 +1,2 @@
 hello git
-adalah
+adalah sesuatu
